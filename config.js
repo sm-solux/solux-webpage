@@ -7,7 +7,7 @@ module.exports = {
   manifestThemeColor: '#663399',
   manifestDisplay: 'standalone',
   manifestIcon: 'src/assets/img/website-icon.png',
-  pathPrefix: `/solux`, // This path is subpath of your hosting https://domain/portfolio
+  pathPrefix: `/`, // This path is subpath of your hosting https://domain/portfolio
   heading: 'SOLUX',
   subHeading: 'Solux는 다양한 전공의 학우들과 함께하는 숙명여대 유일 프로그래밍 중앙동아리입니다.',
   // social
